@@ -1,8 +1,8 @@
-# Awesome Handtools
+# Awesome Hand Tools
 
-> A curated list of awesome handtool resources
+> A curated list of awesome hand tool resources
 
-- [Awesome Handtools](#awesome-handtools)
+- [Awesome Hand Tools](#awesome-hand-tools)
   - [Books](#books)
   - [Blogs](#blogs)
   - [Old Tools](#old-tools)
