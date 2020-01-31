@@ -28,6 +28,7 @@
 - [Rutlands](https://www.rutlands.co.uk/)
 - [The Old Tool Store - Ray Iles](https://www.oldtoolstore.co.uk/)
 - [The Toolpost](https://www.toolpost.co.uk/)
+- [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 - [Toolnut](https://www.toolnut.co.uk/)
 - [Woodland Craft Supplies](http://www.woodlandcraftsupplies.co.uk/)
 - [Woodsmith Store](https://www.woodsmithexperience.co.uk/)
