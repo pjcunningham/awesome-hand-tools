@@ -20,6 +20,7 @@
 ## Old Tools
 
 #### UK
+- [Old School Tools](https://oldschooltools.co.uk/)
 - [Old Tools](https://www.oldtools.co.uk/)
 - [Second Hand Tools](http://www.secondhandtools.co.uk/) 
 
@@ -29,7 +30,12 @@
 
 ## Tool Manufacturers
 
+#### Australia
+- [Vesper Tools](https://www.vespertools.com.au/)
+
+
 #### Canada
+- [Veritas](http://www.veritastools.com/)
 
 #### France
 
@@ -38,12 +44,14 @@
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 
 #### USA
+- [Bridge City Tool Works](https://bridgecitytools.com/)
 - [Lie Nielsen](https://www.lie-nielsen.com/)
 
 ## Tool Suppliers
 
-#### Australia
-- [Vesper Tools](https://www.vespertools.com.au/)
+#### Canada
+- [Lee Valley - en](https://www.leevalley.com/en-ca)
+- [Lee Valley - fr](https://www.leevalley.com/fr-ca)
 
 #### Germany
 - [Dictum Tools](https://www.dictum.com/)
@@ -75,6 +83,7 @@
 - [Woodwork Projects (Z-Saw)](https://www.woodworkprojects.co.uk/index.htm)
 
 #### USA
+- [Lee Valley](https://www.leevalley.com/en-us)
 
 ## YouTube Channels
 
