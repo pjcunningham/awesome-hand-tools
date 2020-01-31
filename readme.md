@@ -20,8 +20,14 @@
 
 ## Tool Manufacturers
 
+#### Canada
+
+#### France
+
 #### UK
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
+
+#### USA
 
 ## Tool Suppliers
 
