@@ -31,6 +31,10 @@
 
 ## Tool Suppliers
 
+#### Germany
+
+#### Ireland
+
 #### UK
 - [Ashley Iles Toolstore](https://www.ashleyilestoolstore.co.uk/)
 - [Axminster Tools & Machinery](https://www.axminster.co.uk/)
