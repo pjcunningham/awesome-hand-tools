@@ -21,6 +21,7 @@
 
 #### UK
 - [Old Tools](https://www.oldtools.co.uk/)
+- [Second Hand Tools](http://www.secondhandtools.co.uk/) 
 
 ## Timber Merchants
 
@@ -58,6 +59,7 @@
 - [G&S Specialist Timber](https://www.toolsandtimber.co.uk/)
 - [Olivers Woodturning](https://www.oliverswoodturning.co.uk/)
 - [Rutlands](https://www.rutlands.co.uk/)
+- [T & J Tools](http://t-jtools.co.uk/)
 - [The Old Tool Store - Ray Iles](https://www.oldtoolstore.co.uk/)
 - [The Toolpost](https://www.toolpost.co.uk/)
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
@@ -70,6 +72,7 @@
 - [Woodworkers Workshop](https://woodworkersworkshop.co.uk/)
 - [Workshop Heaven](https://workshopheaven.com/)
 - [Yandles](https://www.yandles.co.uk/)
+- [Woodwork Projects (Z-Saw)](https://www.woodworkprojects.co.uk/index.htm)
 
 #### USA
 
