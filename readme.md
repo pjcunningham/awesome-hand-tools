@@ -20,6 +20,19 @@
 ## Tool Suppliers
 
 #### UK
+- [Ashley Iles Toolstore](https://www.ashleyilestoolstore.co.uk/)
+- [Axminster Tools & Machinery](https://www.axminster.co.uk/)
+- [Classic Hand Tools](https://www.classichandtools.com/)
+- [G&S Specialist Timber](https://www.toolsandtimber.co.uk/)
+- [Olivers Woodturning](https://www.oliverswoodturning.co.uk/)
+- [Rutlands](https://www.rutlands.co.uk/)
+- [The Old Tool Store - Ray Iles](https://www.oldtoolstore.co.uk/)
+- [The Toolpost](https://www.toolpost.co.uk/)
+- [Toolnut](https://www.toolnut.co.uk/)
+- [Woodland Craft Supplies](http://www.woodlandcraftsupplies.co.uk/)
+- [Woodsmith Store](https://www.woodsmithexperience.co.uk/)
+- [Woodworkers Workshop](https://woodworkersworkshop.co.uk/)
+- [Workshop Heaven](https://workshopheaven.com/)
 
 #### USA
 
