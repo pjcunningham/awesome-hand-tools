@@ -32,6 +32,8 @@
 ## Tool Suppliers
 
 #### Germany
+- [Dictum Tools](https://www.dictum.com/)
+- [Dieter Schmid's Fine Tools](https://www.fine-tools.com/)
 
 #### Ireland
 
