@@ -6,6 +6,7 @@
   - [Books](#books)
   - [Blogs](#blogs)
   - [Old Tools](#old-tools)
+  - [Timber Merchants](#timber-merchants)
   - [Tool Manufacturers](#tool-manufacturers)
   - [Tool Suppliers](#tool-suppliers)
   - [YouTube Channels](#youtube-channels)
@@ -17,6 +18,10 @@
 ## Blogs
 
 ## Old Tools
+
+## Timber Merchants
+
+#### UK
 
 ## Tool Manufacturers
 
