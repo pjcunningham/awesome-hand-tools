@@ -6,6 +6,7 @@
   - [Books](#books)
   - [Blogs](#blogs)
   - [Old Tools](#old-tools)
+  - [Tool Suppliers](#tool-suppliers)
   - [YouTube Channels](#youtube-channels)
   - [Wood Identification](#wood-identification)
   
@@ -15,6 +16,12 @@
 ## Blogs
 
 ## Old Tools
+
+## Tool Suppliers
+
+#### UK
+
+#### USA
 
 ## YouTube Channels
 
