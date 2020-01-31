@@ -38,7 +38,7 @@
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 
 #### USA
--[Lie Nielsen](https://www.lie-nielsen.com/)
+- [Lie Nielsen](https://www.lie-nielsen.com/)
 
 ## Tool Suppliers
 
