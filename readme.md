@@ -6,6 +6,7 @@
   - [Books](#books)
   - [Blogs](#blogs)
   - [Old Tools](#old-tools)
+  - [Tool Manufacturers](#tool-manufacturers)
   - [Tool Suppliers](#tool-suppliers)
   - [YouTube Channels](#youtube-channels)
   - [Wood Identification](#wood-identification)
@@ -16,6 +17,11 @@
 ## Blogs
 
 ## Old Tools
+
+## Tool Manufacturers
+
+#### UK
+- [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 
 ## Tool Suppliers
 
