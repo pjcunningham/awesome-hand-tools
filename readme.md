@@ -21,6 +21,7 @@
 
 ## Magazines
 - [Fine Woodworking](https://www.finewoodworking.com/)
+- [Mortise & Tenon Magazine](https://www.mortiseandtenonmag.com/)
 - [Popular Woodworking](https://www.popularwoodworking.com/)
 
 ## Old Tools
