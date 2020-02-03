@@ -5,6 +5,7 @@
 - [Awesome Hand Tools](#awesome-hand-tools)
   - [Books](#books)
   - [Blogs](#blogs)
+  - [Magazines](#magazines)
   - [Old Tools](#old-tools)
   - [Timber Merchants](#timber-merchants)
   - [Tool Manufacturers](#tool-manufacturers)
@@ -16,6 +17,10 @@
 ## Books
 
 ## Blogs
+
+## Magazines
+- [Fine Woodworking](https://www.finewoodworking.com/)
+- [Popular Woodworking](https://www.popularwoodworking.com/)
 
 ## Old Tools
 
