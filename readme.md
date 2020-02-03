@@ -99,9 +99,14 @@
 - [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
 
 ## YouTube Channels
+- [Adrian Preda](https://www.youtube.com/user/YO4HHP)
+- [Bill Carter](https://www.youtube.com/channel/UCFCVWocKK9mhejPzopUUbJQ)
+- [Fine Woodworking](https://www.youtube.com/user/FineWoodworking)
 - [Mortise & Tenon Magazine](https://www.youtube.com/channel/UCEqwYeNMlleNXKYiUwGN3Bw)
 - [Paul Sellers](https://www.youtube.com/user/PaulSellersWoodwork)
-- [The English Woodworker, Richard Maguire](https://www.youtube.com/channel/UCK9d9JGoPgPGXX8oVxCxjcg)
-
+- [The English Woodworker, Richard Maguire](https://www.youtube.com/user/EnglishWoodworker)
+- [The HandToolery, Andrew Milacci](https://www.youtube.com/channel/UC33RmG_ubJcNF7k474XLssg)
+- [The Unplugged Woodshop, Tom Fidgen](https://www.youtube.com/user/tomfidgen)
+- [Treebangham](https://www.youtube.com/user/treebangham)
 
 ## Wood Identification
