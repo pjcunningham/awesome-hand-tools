@@ -20,6 +20,7 @@
 ## Blogs
 
 ## Magazines
+
 - [Fine Woodworking](https://www.finewoodworking.com/)
 - [Mortise & Tenon Magazine](https://www.mortiseandtenonmag.com/)
 - [Popular Woodworking](https://www.popularwoodworking.com/)
@@ -27,6 +28,7 @@
 ## Old Tools
 
 #### UK
+
 - [Inchmartine Tool Bazaar](https://www.toolbazaar.co.uk/)
 - [Old School Tools](https://oldschooltools.co.uk/)
 - [Old Tools](https://www.oldtools.co.uk/)
@@ -39,30 +41,36 @@
 ## Tool Manufacturers
 
 #### Australia
+
 - [Vesper Tools](https://www.vespertools.com.au/)
 
 
 #### Canada
+
 - [Veritas](http://www.veritastools.com/)
 
 #### France
 
 #### UK
+
 - [Bill Carter](http://www.billcarterwoodworkingplanemaker.co.uk/)
 - [Philly Planes](http://www.phillyplanes.co.uk/)
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 
 #### USA
+
 - [Bridge City Tool Works](https://bridgecitytools.com/)
 - [Lie Nielsen](https://www.lie-nielsen.com/)
 
 ## Tool Suppliers
 
 #### Canada
+
 - [Lee Valley - en](https://www.leevalley.com/en-ca)
 - [Lee Valley - fr](https://www.leevalley.com/fr-ca)
 
 #### Germany
+
 - [Dictum Tools](https://www.dictum.com/)
 - [Dieter Schmid's Fine Tools](https://www.fine-tools.com/)
 - [Magma Fine Woodworking](https://www.magma-tools.com/de/index.html)
@@ -70,6 +78,7 @@
 #### Ireland
 
 #### UK
+
 - [Ashley Iles Toolstore](https://www.ashleyilestoolstore.co.uk/)
 - [Axminster Tools & Machinery](https://www.axminster.co.uk/)
 - [Classic Hand Tools](https://www.classichandtools.com/)
@@ -91,9 +100,11 @@
 - [Woodwork Projects (Z-Saw)](https://www.woodworkprojects.co.uk/index.htm)
 
 #### USA
+
 - [Lee Valley](https://www.leevalley.com/en-us)
 
 ## Tuition Websites
+
 - [Common Woodworking, Paul Sellers](https://commonwoodworking.com/)
 - [Rob Cosman](https://robcosman.com/)
 - [The English Woodworker, Richard Maguire](https://www.theenglishwoodworker.com/)
@@ -102,6 +113,7 @@
 - [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
 
 ## YouTube Channels
+
 - [Adrian Preda](https://www.youtube.com/user/YO4HHP)
 - [Bill Carter](https://www.youtube.com/channel/UCFCVWocKK9mhejPzopUUbJQ)
 - [Dorian Bracht](https://www.youtube.com/channel/UCRGV5YMWtS0RR-SfJ2XU-8A)
