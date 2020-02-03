@@ -48,6 +48,7 @@
 #### France
 
 #### UK
+- [Bill Carter](http://www.billcarterwoodworkingplanemaker.co.uk/)
 - [Philly Planes](http://www.phillyplanes.co.uk/)
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 
