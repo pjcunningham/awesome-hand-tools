@@ -98,6 +98,9 @@
 - [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
 
 ## YouTube Channels
+- [Mortise & Tenon Magazine](https://www.youtube.com/channel/UCEqwYeNMlleNXKYiUwGN3Bw)
 - [Paul Sellers](https://www.youtube.com/user/PaulSellersWoodwork)
+- [The English Woodworker, Richard Maguire](https://www.youtube.com/channel/UCK9d9JGoPgPGXX8oVxCxjcg)
+
 
 ## Wood Identification
