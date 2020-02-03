@@ -5,7 +5,7 @@
 - [Awesome Hand Tools](#awesome-hand-tools)
   - [Books](#books)
   - [Blogs](#blogs)
-  - [Magazines](#magazines)
+  - [Magazines/Publishers](#magazines-publishers)
   - [Old Tools](#old-tools)
   - [Timber Merchants](#timber-merchants)
   - [Tool Manufacturers](#tool-manufacturers)
@@ -19,7 +19,7 @@
 
 ## Blogs
 
-## Magazines
+## Magazines/Publishers
 
 - [Fine Woodworking](https://www.finewoodworking.com/)
 - [Mortise & Tenon Magazine](https://www.mortiseandtenonmag.com/)
@@ -44,30 +44,56 @@
 
 - [Vesper Tools](https://www.vespertools.com.au/)
 
+#### Czechia
+
+- [Narex](https://www.narextools.cz/)
 
 #### Canada
 
+- [IBC](https://www.ibctools.ca/)
 - [Veritas](http://www.veritastools.com/)
 
 #### France
 
+- [Auriou Toolworks](https://www.forge-de-saint-juery.com/)
+
+#### Switzerland
+
+- [Pfeil Tools](https://pfeiltools.ch/)
+
 #### UK
 
 - [Bill Carter](http://www.billcarterwoodworkingplanemaker.co.uk/)
+- [Connell of Sheffield](http://connellofsheffield.com/)
+- [Henry Taylor Tools Limited](https://www.henrytaylortools.co.uk/)
 - [Philly Planes](http://www.phillyplanes.co.uk/)
+- [Richard Kell](http://richardkell.co.uk/)
+- [Robert Sorby](https://www.robert-sorby.co.uk/)
+- [Starrett](https://www.starrett.co.uk/)
 - [Thomas Flinn & Co](https://www.flinn-garlick-saws.co.uk/)
 
 #### USA
 
+- [Bad Axe Tool Works](http://www.badaxetoolworks.com/)
+- [Barr Specialty Tools](https://barrtools.com/)
 - [Bearkat Wood](https://www.bearkatwood.com/)
+- [Benchcrafted](https://www.benchcrafted.com/)
 - [Blackburn Tools](http://www.blackburntools.com/)
+- [Blue Spruce Toolworks](https://bluesprucetoolworks.com/)
 - [Bridge City Tool Works](https://bridgecitytools.com/)
 - [DFM Tool Works](https://dfmtoolworks.com/)
+- [DMT](https://www.dmtsharp.com/)
+- [Glen-Drake Toolworks](https://www.glen-drake.com/)
 - [Gramercy Tools](https://toolsforworkingwood.com/store/dept/CGT)
+- [Hock Tools](http://www.hocktools.com/)
 - [Hovarter Custom Vise](https://www.hovartercustomvise.com/)
+- [Knew Concepts](https://www.knewconcepts.com/)
 - [Lake Erie Tool Works](https://www.lakeerietoolworks.com/)
 - [Lie Nielsen](https://www.lie-nielsen.com/)
+- [Products Engineering Corporation](https://pec.tools/)
 - [Red Rose Productions](https://redrosereproductions.com/)
+- [Starrett](https://www.starrett.com/)
+- [Sterling Tool Works](http://www.sterlingtoolworks.com/)
 
 ## Tool Suppliers
 
