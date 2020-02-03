@@ -5,7 +5,7 @@
 - [Awesome Hand Tools](#awesome-hand-tools)
   - [Books](#books)
   - [Blogs](#blogs)
-  - [Magazines/Publishers](#magazines-publishers)
+  - [Magazines/Publishers](#magazinespublishers)
   - [Old Tools](#old-tools)
   - [Timber Merchants](#timber-merchants)
   - [Tool Manufacturers](#tool-manufacturers)
@@ -22,7 +22,9 @@
 ## Magazines/Publishers
 
 - [Fine Woodworking](https://www.finewoodworking.com/)
+- [Lost Art Press](https://lostartpress.com/)
 - [Mortise & Tenon Magazine](https://www.mortiseandtenonmag.com/)
+- [Rude Mechanicals Press](https://rudemechanicalspress.com/)
 - [Popular Woodworking](https://www.popularwoodworking.com/)
 
 ## Old Tools
