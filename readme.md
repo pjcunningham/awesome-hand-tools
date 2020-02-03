@@ -59,8 +59,15 @@
 
 #### USA
 
+- [Bearkat Wood](https://www.bearkatwood.com/)
+- [Blackburn Tools](http://www.blackburntools.com/)
 - [Bridge City Tool Works](https://bridgecitytools.com/)
+- [DFM Tool Works](https://dfmtoolworks.com/)
+- [Gramercy Tools](https://toolsforworkingwood.com/store/dept/CGT)
+- [Hovarter Custom Vise](https://www.hovartercustomvise.com/)
+- [Lake Erie Tool Works](https://www.lakeerietoolworks.com/)
 - [Lie Nielsen](https://www.lie-nielsen.com/)
+- [Red Rose Productions](https://redrosereproductions.com/)
 
 ## Tool Suppliers
 
