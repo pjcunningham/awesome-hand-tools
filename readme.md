@@ -95,6 +95,7 @@
 
 #### Tuition Websites
 - [Common Woodworking, Paul Sellers](https://commonwoodworking.com/)
+- [Rob Cosman](https://robcosman.com/)
 - [The English Woodworker, Richard Maguire](https://www.theenglishwoodworker.com/)
 - [The Renaissance Woodworker, Shannon Rogers](https://www.renaissancewoodworker.com/)
 - [The Unplugged Woodshop, Tom Fidgen](https://www.theunpluggedwoodshop.com/)
@@ -113,6 +114,7 @@
 - [Paul Sellers](https://www.youtube.com/user/PaulSellersWoodwork)
 - [Popular Woodworking](https://www.youtube.com/user/popularwoodworking)
 - [Renaissance Woodworker, Shannon Rogers](https://www.youtube.com/user/RenaissanceWW)
+- [Rob Cosman](https://www.youtube.com/user/robc45)
 - [The English Woodworker, Richard Maguire](https://www.youtube.com/user/EnglishWoodworker)
 - [The HandToolery, Andrew Milacci](https://www.youtube.com/channel/UC33RmG_ubJcNF7k474XLssg)
 - [The Unplugged Woodshop, Tom Fidgen](https://www.youtube.com/user/tomfidgen)
