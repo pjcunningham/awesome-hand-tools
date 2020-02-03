@@ -93,7 +93,7 @@
 #### USA
 - [Lee Valley](https://www.leevalley.com/en-us)
 
-#### Tuition Websites
+## Tuition Websites
 - [Common Woodworking, Paul Sellers](https://commonwoodworking.com/)
 - [Rob Cosman](https://robcosman.com/)
 - [The English Woodworker, Richard Maguire](https://www.theenglishwoodworker.com/)
