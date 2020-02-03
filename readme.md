@@ -10,6 +10,7 @@
   - [Timber Merchants](#timber-merchants)
   - [Tool Manufacturers](#tool-manufacturers)
   - [Tool Suppliers](#tool-suppliers)
+  - [Tuition Websites](#tuition-websites)
   - [YouTube Channels](#youtube-channels)
   - [Wood Identification](#wood-identification)
   
@@ -89,6 +90,11 @@
 
 #### USA
 - [Lee Valley](https://www.leevalley.com/en-us)
+
+#### Tuition Websites
+- [Common Woodworking, Paul Sellers](https://commonwoodworking.com/)
+- [The Unplugged Woodshop, Tom Fidgen](https://www.theunpluggedwoodshop.com/)
+- [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
 
 ## YouTube Channels
 
