@@ -127,9 +127,16 @@
 - [Popular Woodworking](https://www.youtube.com/user/popularwoodworking)
 - [Renaissance Woodworker, Shannon Rogers](https://www.youtube.com/user/RenaissanceWW)
 - [Rob Cosman](https://www.youtube.com/user/robc45)
+- [Scott Horsburgh](https://www.youtube.com/user/Burghsy)
+- [Stavros Gakos](https://www.youtube.com/user/esortodox1)
+- [Sumokun](https://www.youtube.com/user/Sumokun)
 - [The English Woodworker, Richard Maguire](https://www.youtube.com/user/EnglishWoodworker)
 - [The HandToolery, Andrew Milacci](https://www.youtube.com/channel/UC33RmG_ubJcNF7k474XLssg)
+- [The Quiet Workshop](https://www.youtube.com/channel/UCKs-u6KH6FP_5pfhH2Yf_Pg)
 - [The Unplugged Woodshop, Tom Fidgen](https://www.youtube.com/user/tomfidgen)
 - [Treebangham](https://www.youtube.com/user/treebangham)
+- [Wood and Shop, Joshua Farnsworth](https://www.youtube.com/user/WoodAndShop)
+- [Wood By Wright, James Wright](https://www.youtube.com/channel/UCbMtJOly6TpO5MQQnNwkCHg)
+- [Wood By Wright How 2, James Wright](https://www.youtube.com/channel/UCQNFJVAUF-qWtK0dawxcOaQ)
 
 ## Wood Identification
