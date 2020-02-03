@@ -97,5 +97,6 @@
 - [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
 
 ## YouTube Channels
+- [Paul Sellers](https://www.youtube.com/user/PaulSellersWoodwork)
 
 ## Wood Identification
