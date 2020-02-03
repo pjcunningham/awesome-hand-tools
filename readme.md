@@ -94,6 +94,7 @@
 
 #### Tuition Websites
 - [Common Woodworking, Paul Sellers](https://commonwoodworking.com/)
+- [The English Woodworker, Richard Maguire](https://www.theenglishwoodworker.com/)
 - [The Unplugged Woodshop, Tom Fidgen](https://www.theunpluggedwoodshop.com/)
 - [Woodworking Masterclasses, Paul Sellers](https://woodworkingmasterclasses.com/)
 
