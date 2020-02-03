@@ -19,6 +19,9 @@
 
 ## Blogs
 
+- [Paul Sellers](https://paulsellers.com/woodworking-blog/paul-sellers-blog/)
+- [The English Woodworker, Richard Maguire](https://www.theenglishwoodworker.com/blog/)
+
 ## Magazines/Publishers
 
 - [Fine Woodworking](https://www.finewoodworking.com/)
@@ -44,11 +47,13 @@
 
 #### Australia
 
+- [H.N.T Gordon & Co.](https://hntgordon.com.au/)
 - [Vesper Tools](https://www.vespertools.com.au/)
 
 #### Czechia
 
 - [Narex](https://www.narextools.cz/)
+- [York](http://www.york.cz/)
 
 #### Canada
 
