@@ -154,9 +154,20 @@
 
 ## YouTube Channels
 
+- [Aah Woodwork with Mitch Peacock](https://www.youtube.com/user/WOmadeOD)
 - [Adrian Preda](https://www.youtube.com/user/YO4HHP)
+- [Adventures In T-Shirts Woodwork](https://www.youtube.com/channel/UCBNJQsetxBn9_Mgchp3rTiA)
+- [Andy Rawls](https://www.youtube.com/user/emilyr4life)
+- [Axminster Tools & Machinery](https://www.youtube.com/user/axminstertoolcentre)
+- [BearKat Wood](https://www.youtube.com/channel/UCYxF90R-MdZpxLfJNe2InpA)
 - [Bill Carter](https://www.youtube.com/channel/UCFCVWocKK9mhejPzopUUbJQ)
+- [Bob Rozaieski Fine Woodworking](https://www.youtube.com/user/logancabinetshop)
+- [Clean Phil Wanted](https://www.youtube.com/user/yourmomsfake)
+- [David Boeff](https://www.youtube.com/user/mrboop2)
+- [David W](https://www.youtube.com/user/daw162)
+- [Dictum GmbH](https://www.youtube.com/user/DictumGmbH)
 - [Dorian Bracht](https://www.youtube.com/channel/UCRGV5YMWtS0RR-SfJ2XU-8A)
+- [Dusty Splinters](https://www.youtube.com/user/GoneBattyBats)
 - [Gillis Björk](https://www.youtube.com/channel/UCVdvwXru5T-YrHDvse7SNIA)
 - [Fine Woodworking](https://www.youtube.com/user/FineWoodworking)
 - [ISHITANI FURNITURE](https://www.youtube.com/channel/UC7FkqjV8SU5I8FCHXQSQe9Q)
