@@ -192,3 +192,5 @@
 - [Wood By Wright How 2, James Wright](https://www.youtube.com/channel/UCQNFJVAUF-qWtK0dawxcOaQ)
 
 ## Wood Identification
+
+- [Wood Record](https://woodrecord.com/) - Sourced database of 1,785 wood species with Janka hardness, density, strength, photos and allergy notes.
